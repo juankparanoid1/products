@@ -1,62 +1,74 @@
-[
-    {
-        "name": "Pizza",
-        "imageUrl": "https://via.placeholder.com/150",
-        "price": "10",
-        "description": "Delicious pizza with various toppings"
-    },
-    {
-        "name": "Hamburger",
-        "imageUrl": "https://via.placeholder.com/150",
-        "price": "8",
-        "description": "Classic beef hamburger with cheese and vegetables"
-    },
-    {
-        "name": "Tacos",
-        "imageUrl": "https://via.placeholder.com/150",
-        "price": "6",
-        "description": "Authentic Mexican tacos with choice of meat and toppings"
-    },
-    {
-        "name": "Pasta",
-        "imageUrl": "https://via.placeholder.com/150",
-        "price": "12",
-        "description": "Homemade pasta with rich tomato sauce and fresh herbs"
-    },
-    {
-        "name": "Sushi",
-        "imageUrl": "https://via.placeholder.com/150",
-        "price": "15",
-        "description": "Freshly prepared sushi rolls with a variety of fillings"
-    },
-    {
-        "name": "Salad",
-        "imageUrl": "https://via.placeholder.com/150",
-        "price": "7",
-        "description": "Healthy salad with mixed greens, vegetables, and dressing"
-    },
-    {
-        "name": "Steak",
-        "imageUrl": "https://via.placeholder.com/150",
-        "price": "20",
-        "description": "Juicy grilled steak with choice of sauce and side dish"
-    },
-    {
-        "name": "Soup",
-        "imageUrl": "https://via.placeholder.com/150",
-        "price": "5",
-        "description": "Warm and comforting soup with choice of flavors"
-    },
-    {
-        "name": "Sandwich",
-        "imageUrl": "https://via.placeholder.com/150",
-        "price": "9",
-        "description": "Classic sandwich with choice of meats, cheeses, and vegetables"
-    },
-    {
-        "name": "Ice Cream",
-        "imageUrl": "https://via.placeholder.com/150",
-        "price": "4",
-        "description": "Creamy and delicious ice cream in a variety of flavors"
-    }
-]
+{
+    "products": [
+        {
+            "id": "1",
+            "name": "Pizza",
+            "imageUrl": "https://via.placeholder.com/150",
+            "price": "10",
+            "description": "Delicious pizza with various toppings"
+        },
+        {
+            "id": "2",
+            "name": "Hamburger",
+            "imageUrl": "https://via.placeholder.com/150",
+            "price": "8",
+            "description": "Classic beef hamburger with cheese and vegetables"
+        },
+        {
+            "id": "3",
+            "name": "Tacos",
+            "imageUrl": "https://via.placeholder.com/150",
+            "price": "6",
+            "description": "Authentic Mexican tacos with choice of meat and toppings"
+        },
+        {
+            "id": "4",
+            "name": "Pasta",
+            "imageUrl": "https://via.placeholder.com/150",
+            "price": "12",
+            "description": "Homemade pasta with rich tomato sauce and fresh herbs"
+        },
+        {
+            "id": "5",
+            "name": "Sushi",
+            "imageUrl": "https://via.placeholder.com/150",
+            "price": "15",
+            "description": "Freshly prepared sushi rolls with a variety of fillings"
+        },
+        {
+            "id": "6",
+            "name": "Salad",
+            "imageUrl": "https://via.placeholder.com/150",
+            "price": "7",
+            "description": "Healthy salad with mixed greens, vegetables, and dressing"
+        },
+        {
+            "id": "7",
+            "name": "Steak",
+            "imageUrl": "https://via.placeholder.com/150",
+            "price": "20",
+            "description": "Juicy grilled steak with choice of sauce and side dish"
+        },
+        {
+            "id": "8",
+            "name": "Soup",
+            "imageUrl": "https://via.placeholder.com/150",
+            "price": "5",
+            "description": "Warm and comforting soup with choice of flavors"
+        },
+        {
+            "id": "9",
+            "name": "Sandwich",
+            "imageUrl": "https://via.placeholder.com/150",
+            "price": "9",
+            "description": "Classic sandwich with choice of meats, cheeses, and vegetables"
+        },
+        {
+            "id": "10",
+            "name": "Ice Cream",
+            "imageUrl": "https://via.placeholder.com/150",
+            "price": "4",
+            "description": "Creamy and delicious ice cream in a variety of flavors"
+        }
+    ]
+}
